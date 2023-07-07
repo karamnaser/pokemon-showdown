@@ -6206,4 +6206,8 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
+	Kuramon: {
+	isNonstandard: 'Past', 
+	tier: 'Illegal'
+	}
 };
