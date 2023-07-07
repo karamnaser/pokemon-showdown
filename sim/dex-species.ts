@@ -10,13 +10,15 @@ interface SpeciesAbility {
 type SpeciesTag = "Mythical" | "Restricted Legendary" | "Sub-Legendary" | "Paradox";
 
 export interface SpeciesData extends Partial<Species> {
-	Digimon: string;
+	name: string;
 	/** National Dex number */
 	num: number;
 
-	Type: string[];
-	Attribute: string;
-	Stage: string[];
+	types: string[];
+	abilities: SpeciesAbility;
+	baseStats: StatsTable;
+	eggGroups: string[];
+	weightkg: number;
 }
 
 export type ModdedSpeciesData = SpeciesData | Partial<Omit<SpeciesData, 'name'>> & {inherit: true};
@@ -54,14 +56,14 @@ export class Species extends BasicEffect implements Readonly<BasicEffect & Speci
 	 * e.g. 'Basculin-Blue-Striped'. To get the name without forme, see
 	 * `species.baseSpecies`.
 	 */
-	declare readonly Digimon: string;
+	declare readonly name: string;
 	/**
 	 * Base species. Species, but without the forme name.
 	 *
 	 * DO NOT ASSUME A POKEMON CAN TRANSFORM FROM `baseSpecies` TO
 	 * `species`. USE `changesFrom` FOR THAT.
 	 */
-	readonly Type: string;
+	readonly baseSpecies: string;
 	/**
 	 * Forme name. If the forme exists,
 	 * `species.name === species.baseSpecies + '-' + species.forme`
@@ -74,11 +76,11 @@ export class Species extends BasicEffect implements Readonly<BasicEffect & Speci
 	 * This property only tracks non-cosmetic formes, and will be `''` for
 	 * cosmetic formes.
 	 */
-	readonly Stage: string;
+	readonly forme: string;
 	/**
 	 * Base forme name (e.g. 'Altered' for Giratina).
 	 */
-	readonly Attribute: string;
+	readonly baseForme: string;
 	/**
 	 * Other forms. List of names of cosmetic forms. These should have
 	 * `aliases.js` aliases to this entry, but not have their own
@@ -222,11 +224,11 @@ export class Species extends BasicEffect implements Readonly<BasicEffect & Speci
 		// eslint-disable-next-line @typescript-eslint/no-this-alias
 		data = this;
 
-		this.fullname = `pokemon: ${data.Digimon}`;
+		this.fullname = `pokemon: ${data.name}`;
 		this.effectType = 'Pokemon';
-		this.Stage = data.Stage;
-		this.Type = data.Type || '';
-		this.Attribute = data.Attribute || '';
+		this.baseSpecies = data.baseSpecies || this.name;
+		this.forme = data.forme || '';
+		this.baseForme = data.baseForme || '';
 		this.cosmeticFormes = data.cosmeticFormes || undefined;
 		this.otherFormes = data.otherFormes || undefined;
 		this.formeOrder = data.formeOrder || undefined;
@@ -522,8 +524,8 @@ export class DexSpecies {
 	all(): readonly Species[] {
 		if (this.allCache) return this.allCache;
 		const species = [];
-		dex.data.Pokedex.forEach(function(digimon) {
-			species.push(digimon);
+		for (const id in this.dex.data.Pokedex) {
+			species.push(this.getByID(id as ID));
 		}
 		this.allCache = species;
 		return this.allCache;
