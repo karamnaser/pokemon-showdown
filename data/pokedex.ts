@@ -19279,15 +19279,15 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	Kuramon: {
 	num: 0, 
-	name: 'Kuramon', 
-	types: 'Free', 
-	genderRatio: {'M': 0.875, 'F': 0.125}, 
-	baseStats: {'hp': 590, 'atk': 79, 'def': 69, 'spa': 77, 'spd': 95, 'spe': 68}, 
-	abilities: {'0': 'Overgrow', 'H': 'Chlorophyll'}, 
+	name: "Kuramon", 
+	types: ["Free"], 
+	genderRatio: {"M": 0.875, "F": 0.125}, 
+	baseStats: {"hp": 590, "atk": 79, "def": 69, "spa": 77, "spd": 95, "spe": 68}, 
+	abilities: {"0": "Overgrow", 'H': "Chlorophyll"}, 
 	height: 0, 
 	weightkg: 0, 
-	color: 'Green', 
-	evos: ['anthing'], 
+	color: "Yellow", 
+	evos: ["Graymone"], 
 	eggGroups: ['Monster']
 	}
 };
