@@ -4,7 +4,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	},
 	Kuramon: {
 		tier: "LC",
-	}
+	},
 	ivysaur: {
 		tier: "NFE",
 	},
