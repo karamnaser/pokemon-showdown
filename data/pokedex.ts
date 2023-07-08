@@ -19288,6 +19288,6 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	weightkg: 0, 
 	color: "Yellow", 
 	evos: ["Graymone"], 
-	eggGroups: ['Monster']
+	eggGroups: ['Monster'],
 	}
 };

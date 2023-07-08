@@ -4,6 +4,9 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 		natDexTier: "LC",
 	},
+	Kuramon: {
+		tier: "LC"
+	},
 	ivysaur: {
 		isNonstandard: "Past",
 		tier: "Illegal",
@@ -24,9 +27,6 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	charmander: {
-		tier: "LC",
-	},
-	Kuramon: {
 		tier: "LC",
 	},
 	charmeleon: {
