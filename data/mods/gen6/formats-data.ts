@@ -6,7 +6,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "LC"
 	},
 	graymone: {
-		tier: "LC"
+		tier: "NFE"
 	},
 	ivysaur: {
 		tier: "NFE",
