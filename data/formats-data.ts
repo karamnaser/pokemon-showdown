@@ -26,6 +26,9 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	charmander: {
 		tier: "LC",
 	},
+	Kuramon: {
+		tier: "LC",
+	},
 	charmeleon: {
 		tier: "NFE",
 	},
