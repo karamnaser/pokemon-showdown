@@ -6207,6 +6207,6 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 	},
 	Kuramon: { 
-	tier: "LC"
+	tier: "Illegal"
 	}
 };
