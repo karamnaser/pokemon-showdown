@@ -19292,7 +19292,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	},
 	graymone: {
 	num: 0, 
-	name: "graymone", 
+	name: "Graymone", 
 	types: ["Free"], 
 	genderRatio: {M: 0.875, F: 0.125}, 
 	baseStats: {hp: 590, atk: 79, def: 69, spa: 77, spd: 95, spe: 68}, 
@@ -19300,9 +19300,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	heightm: 1.5, 
 	weightkg: 61,
     prevo: "Kuramon",
-	evo: null,
-    evoLevel: 36,
-    otherFormes: null,	
+    evoLevel: 36,	
 	color: "Yellow",  
 	eggGroups: ["Monster"]
 	}
