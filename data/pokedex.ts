@@ -19291,7 +19291,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	eggGroups: ["Monster"]
 	},
 	graymone: {
-	num: 0, 
+	num: 8000, 
 	name: "Graymone", 
 	types: ["Free"], 
 	genderRatio: {M: 0.875, F: 0.125}, 
