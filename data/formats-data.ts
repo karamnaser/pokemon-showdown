@@ -4,7 +4,7 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		tier: "Illegal",
 		natDexTier: "LC",
 	},
-	Kuramon: {
+	kuramon: {
 		tier: "LC"
 	},
 	ivysaur: {

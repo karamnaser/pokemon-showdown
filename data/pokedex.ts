@@ -19277,8 +19277,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
-	Kuramon: {
-	num: -1060, 
+	kuramon: {
+	num: 0, 
 	name: "Kuramon", 
 	types: ["Free"], 
 	genderRatio: {"M": 0.875, "F": 0.125}, 
