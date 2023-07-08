@@ -19299,7 +19299,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	abilities: {0: "Overgrow", H: "Chlorophyll"}, 
 	heightm: 1.5, 
 	weightkg: 61,
-    prevo: "Kuramon"	
+    prevo: "Kuramon",	
 	color: "Yellow",  
 	eggGroups: ["Monster"]
 	}
