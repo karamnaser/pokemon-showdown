@@ -3,10 +3,6 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		color: "Red",
 	},
-	kuramon:{
-		inherit: true,
-		baseStats: {hp: 590, atk: 79, def: 69, spa: 77, spd: 95, spe: 68},
-	},
 	arbok: {
 		inherit: true,
 		baseStats: {hp: 60, atk: 85, def: 69, spa: 65, spd: 79, spe: 80},
@@ -390,4 +386,31 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		abilities: {0: "Volt Absorb", 1: "Lightning Rod"},
 	},
+	kuramon: {
+	num: 0, 
+	name: "Kuramon", 
+	types: ["Dark"], 
+	genderRatio: {M: 0.875, F: 0.125}, 
+	baseStats: {hp: 590, atk: 79, def: 69, spa: 77, spd: 95, spe: 68}, 
+	abilities: {0: "Overgrow", H: "Chlorophyll"}, 
+	heightm: 1.5, 
+	weightkg: 61, 
+	color: "Yellow", 
+	evos: ["Graymone"], 
+	eggGroups: ["Monster"]
+	},
+	graymone: {
+	num: -8000, 
+	name: "Graymone", 
+	types: ["Free"], 
+	genderRatio: {M: 0.875, F: 0.125}, 
+	baseStats: {hp: 590, atk: 79, def: 69, spa: 77, spd: 95, spe: 68}, 
+	abilities: {0: "Overgrow", H: "Chlorophyll"}, 
+	heightm: 1.5, 
+	weightkg: 61,
+    prevo: "Kuramon",
+    evoLevel: 36,	
+	color: "Yellow",  
+	eggGroups: ["Monster"]
+	}
 };
