@@ -3,6 +3,10 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		color: "Red",
 	},
+	kuramon:{
+		inherit: true,
+		baseStats: {hp: 590, atk: 79, def: 69, spa: 77, spd: 95, spe: 68},
+	},
 	arbok: {
 		inherit: true,
 		baseStats: {hp: 60, atk: 85, def: 69, spa: 65, spd: 79, spe: 80},
