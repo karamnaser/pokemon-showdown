@@ -19280,7 +19280,7 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 	kuramon: {
 	num: 0, 
 	name: "Kuramon", 
-	types: ["Free"], 
+	types: ["Dark"], 
 	genderRatio: {M: 0.875, F: 0.125}, 
 	baseStats: {hp: 590, atk: 79, def: 69, spa: 77, spd: 95, spe: 68}, 
 	abilities: {0: "Overgrow", H: "Chlorophyll"}, 
