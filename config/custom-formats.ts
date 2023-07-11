@@ -1,16 +1,26 @@
-/** @type {(FormatsData | {section: string, column?: number})[]} */
 export const Formats: FormatList = [
-	// Digimon Metas
 	{
 		section: "Digimon Metas",
 		column: 2,
 	},
 	{
-		name: "[digimon] Random Battle",
-		desc: `Randomized teams of Pok&eacute;mon with sets that are generated to be competitively viable.`,
-		mod: 'digimon',
-		team: 'random',
-		ruleset: ['PotD', 'Obtainable', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod'],
+		name: "[Digimon] Digimon Showdown Singles",
+		desc: "Battle and play with your friends with this Digimon & LGPE hyrbid.",
+
+		mod: "digimon",
+		team: "randomDigimon",
+		ruleset: ['Cancel Mod', 'Dynamax Clause', 'HP Percentage Mod', 'Team Preview', 'Terastal Clause'],
+		onBegin:()=> {
+		},
+		onSwitchIn:(pokemon)=> {
+			this.add('-start', pokemon, 'typechange', pokemon.types.join('/'), '[silent]');
+		},
+		onAfterMega:(pokemon)=> {
+			this.add('-start', pokemon, 'typechange', pokemon.types.join('/'), '[silent]');
+		},
+		onUpdate:(pokemon)=> {
+			this.add('-start', pokemon, 'typechange', pokemon.types.join('/'), '[silent]');
+		},
 	},
 ];
 
