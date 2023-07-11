@@ -4510,5 +4510,5 @@ const DigimonFormats: FormatList = [
 		},
 	},
 ];
-exports.Formats.push(...DigimonFormats);
+Formats.push(...DigimonFormats);
 
