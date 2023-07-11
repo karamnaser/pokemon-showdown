@@ -5,7 +5,7 @@ export const Formats: FormatList = [
 		column: 2,
 	},
 	{
-		name: "[Gen6d] Ubers",
+		name: "[Digimon] OU",
 		desc: "Battle and play with your friends with this Digimon & LGPE hyrbid.",
 		mod: "digimon",
 		ruleset: ['Standard','+ OU','- all Pokemon'],
