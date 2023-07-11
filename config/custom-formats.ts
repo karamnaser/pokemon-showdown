@@ -143,4 +143,4 @@ const DigimonFormats: FormatList = [
 		},
 	},
 ];
-exports.Formats.push(...DigimonFormats);
+exports.DigimonFormats.push(...DigimonFormats);
