@@ -588,6 +588,7 @@ export class DexFormats {
 
 		if (this.dex.data.Aliases.hasOwnProperty(id)) {
 			name = this.dex.data.Aliases[id];
+			console.log("name=",name);
 			id = toID(name);
 		}
 		if (this.dex.data.Rulesets.hasOwnProperty(DEFAULT_MOD + id)) {
