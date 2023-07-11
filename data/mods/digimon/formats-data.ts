@@ -79,11 +79,6 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "OU",
 		isNonstandard: null,
 	},
-	agumon: {
-		inherit: true,
-		tier: "OU",
-		isNonstandard: null,
-	},
 	aruraumon: {
 		inherit: true,
 		tier: "OU",
