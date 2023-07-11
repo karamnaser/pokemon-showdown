@@ -19277,31 +19277,5 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
-	kuramon: {
-	num: 0, 
-	name: "Kuramon", 
-	types: ["Dark"], 
-	genderRatio: {M: 0.875, F: 0.125}, 
-	baseStats: {hp: 590, atk: 79, def: 69, spa: 77, spd: 95, spe: 68}, 
-	abilities: {0: "Overgrow", H: "Chlorophyll"}, 
-	heightm: 1.5, 
-	weightkg: 61, 
-	color: "Yellow", 
-	evos: ["Graymone"], 
-	eggGroups: ["Monster"]
-	},
-	graymone: {
-	num: -8000, 
-	name: "Graymone", 
-	types: ["Free"], 
-	genderRatio: {M: 0.875, F: 0.125}, 
-	baseStats: {hp: 590, atk: 79, def: 69, spa: 77, spd: 95, spe: 68}, 
-	abilities: {0: "Overgrow", H: "Chlorophyll"}, 
-	heightm: 1.5, 
-	weightkg: 61,
-    prevo: "Kuramon",
-    evoLevel: 36,	
-	color: "Yellow",  
-	eggGroups: ["Monster"]
-	}
+	
 };

@@ -2,6 +2,7 @@ export const Formats: FormatList = [
 	// Digimon Metas
 	{
 		section: "Digimon Metas",
+		column: 2,
 	},
 	{
 		name: "[Digimon] Digimon Showdown Singles",
