@@ -2291,7 +2291,6 @@ export const Moves: {[k: string]: ModdedMoveData} = {
 			this.attrLastMove('[still]');
 			this.add('-anim', source, "teleport", target);
 		},
-		priority: -6,
 		flags: {},
 		selfSwitch: true,
 		onTryHit: true,
