@@ -1,4 +1,4 @@
-export const Formats: FormatList = [
+export const DigimonFormats: FormatList = [
 	// Digimon Metas
 	{
 		section: "Digimon Metas",
