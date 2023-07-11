@@ -5,7 +5,7 @@ export const Formats: FormatList = [
 		column: 2,
 	},
 	{
-		name: "[gen10] Digimon Showdown Singles",
+		name: "[Digimon] Digimon Showdown Singles",
 		desc: "Battle and play with your friends with this Digimon & LGPE hyrbid.",
 		mod: "digimon",
 		ruleset: ['Cancel Mod', 'Dynamax Clause', 'HP Percentage Mod', 'Team Preview', 'Terastal Clause'],
