@@ -5,9 +5,9 @@ export const Formats: FormatList = [
 		column: 2,
 	},
 	{
-		name: "[Digimon] Digimon OU",
+		name: "[Gen6d] OU",
 		desc: "Battle and play with your friends with this Digimon & LGPE hyrbid.",
-		mod: "digimon",
+		mod: "gen6d",
 		ruleset: ['Standard'],
 	},
 ];
