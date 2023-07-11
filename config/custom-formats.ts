@@ -2,14 +2,13 @@ export const Formats: FormatList = [
 	// Digimon Metas
 	{
 		section: "Digimon Metas",
-		column: 2,
 	},
 	{
 		name: "[Digimon] Digimon Showdown Singles",
 		desc: "Battle and play with your friends with this Digimon & LGPE hyrbid.",
 
 		mod: "digimon",
-		team: "randomDigimon",
+		team: "random",
 		ruleset: ['Cancel Mod', 'Dynamax Clause', 'HP Percentage Mod', 'Team Preview', 'Terastal Clause'],
 		onBegin() {
 		},
@@ -68,7 +67,7 @@ export const Formats: FormatList = [
 		desc: "Battle in this Digimon & LGPE Monotype format!",
 
 		mod: "digimon",
-		team: "randomDigimon",
+		team: "random",
 		ruleset: ['Cancel Mod', 'Dynamax Clause', 'HP Percentage Mod', 'Team Preview', 'Same Type Clause', 'Terastal Clause'],
 		onBegin() {
 		},
@@ -107,7 +106,7 @@ export const Formats: FormatList = [
 		desc: "Worlds Collide in this Digimon & LGPE Format!",
 
 		mod: "digimon",
-		team: "randomDigimon",
+		team: "random",
 		ruleset: ['Cancel Mod', 'Dynamax Clause', 'HP Percentage Mod', 'Team Preview', 'Terastal Clause'],
 		onBegin() {
 		},
