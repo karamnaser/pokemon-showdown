@@ -7,7 +7,7 @@ export const Formats: FormatList = [
 	{
 		name: "[Gen6d] OU",
 		desc: "Battle and play with your friends with this Digimon & LGPE hyrbid.",
-		mod: "gen6d",
+		mod: "digimon",
 		ruleset: ['Standard'],
 	},
 ];
