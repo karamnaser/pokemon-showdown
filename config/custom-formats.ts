@@ -1,4 +1,4 @@
-const DigimonFormats: FormatList = [
+export const Formats: FormatList = [
 	// Digimon Metas
 	{
 		section: "Digimon Metas",
@@ -142,4 +142,4 @@ const DigimonFormats: FormatList = [
 		},
 	},
 ];
-exports.Formats.push(...DigimonFormats);
+
