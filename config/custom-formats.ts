@@ -7,7 +7,7 @@ export const Formats: FormatList = [
 	{
 		name: "[genDigimon]",
 		mod: "gendigimon",
-		ruleset: ['Standard'],
+		ruleset: ['Cancel Mod', 'Dynamax Clause', 'HP Percentage Mod', 'Team Preview', 'Terastal Clause'],
 	},
 	{
 		name: "[Digimon] Digimon Showdown Singles",
