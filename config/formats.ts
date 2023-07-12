@@ -4363,6 +4363,17 @@ export const Formats: FormatList = [
 		battle: {trunc: Math.trunc},
 		ruleset: ['HP Percentage Mod', 'Cancel Mod', 'Desync Clause Mod', 'Max Team Size = 24', 'Max Move Count = 24', 'Max Level = 9999', 'Default Level = 100'],
 	},
+	// Digimon Metas
+	{
+		section: "Digimon Metas",
+		column: 2,
+	},
+	{
+		name: "[genDigimon]",
+		desc: "Battle and play with your friends with this Digimon & LGPE hyrbid.",
+		mod: "gendigimon",
+		ruleset: ['Standard','+ OU','- all Pokemon'],
+	},
 	
 ];
 
