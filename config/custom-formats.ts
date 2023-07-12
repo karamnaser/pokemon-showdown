@@ -6,9 +6,8 @@ export const Formats: FormatList = [
 	},
 	{
 		name: "[genDigimon]",
-		desc: "Battle and play with your friends with this Digimon & LGPE hyrbid.",
 		mod: "gendigimon",
-		ruleset: ['Standard','+ OU','- all Pokemon'],
+		ruleset: ['Standard'],
 	},
 	{
 		name: "[Digimon] Digimon Showdown Singles",
