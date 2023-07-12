@@ -1,7 +1,6 @@
 export const Aliases: {[alias: string]: string} = {
 	// formats
 	randbats: "[Gen 9] Random Battle",
-	gendigimon: "[genDigimon]",
 	uber: "[Gen 9] Ubers",
 	anythinggoes: "[Gen 9] Anything Goes",
 	ubers: "[Gen 9] Ubers",
