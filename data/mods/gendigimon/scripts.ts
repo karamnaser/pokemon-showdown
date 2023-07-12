@@ -1,6 +1,4 @@
 export const Scripts: ModdedBattleScriptsData = {
-	inherit: false,
-	gen:"gendigimon",
 	actions: {
 		canMegaEvo(pokemon) {
 			const species = pokemon.baseSpecies;
