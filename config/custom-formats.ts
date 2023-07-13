@@ -5,7 +5,7 @@ export const Formats: FormatList = [
 		column: 2,
 	},
 	{
-		name: "[genDigimon]",
+		name: "[genDigimon] OU",
 		mod: "gendigimon",
 		ruleset: ['Cancel Mod', 'Dynamax Clause', 'HP Percentage Mod', 'Team Preview', 'Terastal Clause'],
 	},
