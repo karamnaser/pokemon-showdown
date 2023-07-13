@@ -1,6 +1,8 @@
 export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
   agumon: {
+		inherit: true,
 		tier: "NFE",
+		isNonstandard: null,
 	},
 	botamon: {
 		inherit: true,
