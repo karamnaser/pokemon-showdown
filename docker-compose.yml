@@ -1,0 +1,25 @@
+version: "3"
+services:
+  proxy:
+    image: karamnaser/digimon-showdown-client:v1
+    expose:
+       - "80"
+    ports:
+       - "80:80"
+    networks:
+        test_network:
+            ipv4_address: 192.168.1.2
+  backend:
+   image: karamnaser/digimon-showdown:v1
+   ports:
+       - "8000:8000"
+  
+networks:
+    test_network:
+        ipam:
+            driver: default
+            config:
+                - subnet: 192.168.1.2/24
+  
+
+
