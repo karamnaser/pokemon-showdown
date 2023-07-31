@@ -1,0 +1,841 @@
+[33mcommit 1fd54a1b04e300db7b9679db1e65694e6abff149[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Mon Jul 31 08:21:19 2023 +0000
+
+    deleting unwanted file
+
+[33mcommit e8af910c82d35486e6a33a19ffa8729210e65fae[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Mon Jul 31 08:18:17 2023 +0000
+
+    deleting unwanted file
+
+[33mcommit 2ff8d42dcbe55466f2de9d9d371db2a6f4d6d7f8[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Mon Jul 31 07:21:26 2023 +0000
+
+    deleting all pokemon formates
+
+[33mcommit 66e0e87c689743ef868fe679e8278f6f3f4b8e5e[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 19 23:20:00 2023 +0300
+
+    adding docker-composed file
+
+[33mcommit 4316d2ab1b7fa821f9169c2b15c9b061cc5d8628[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Mon Jul 17 23:23:49 2023 +0300
+
+    addign dockerfile and dockerignore file to repo
+
+[33mcommit 7f62247aa10fbcd1e5e31db1809733891cf68a0b[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 15 17:52:37 2023 +0300
+
+    changing server/index.html
+
+[33mcommit 2b2cd013c8d8a10d8a3afd6c44775847d47c9672[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Thu Jul 13 19:33:07 2023 +0300
+
+    removing pokemon from pokedix
+
+[33mcommit 37120fa69a3dd961ad1563e34ff1e5677179c148[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Thu Jul 13 19:23:15 2023 +0300
+
+    removing pokemon from pokedix
+
+[33mcommit f7ee7144aeadb3e2bcabf9a56e6d55d559a82414[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Thu Jul 13 17:50:37 2023 +0300
+
+    removing pokemon from pokedix
+
+[33mcommit a61f9ecccdb1b3e7deaeb6757c8bc4ffc7a9399e[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Thu Jul 13 16:32:39 2023 +0300
+
+    removing pokemon from pokedix
+
+[33mcommit 61bfa3c110d469fb0451dbb25c929a561b116157[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Thu Jul 13 15:05:53 2023 +0300
+
+    removing pokemon from pokedix
+
+[33mcommit baacaa36de32ae297a851d16865b9592a41864fd[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 23:24:41 2023 +0300
+
+    adding new mode
+
+[33mcommit 7b98158df86f8c7df0265984cf9046ffb79cebd0[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 23:16:35 2023 +0300
+
+    adding new mode
+
+[33mcommit f00251592baa39005a9fe27d80a917079d1c260a[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 22:40:41 2023 +0300
+
+    adding new mode
+
+[33mcommit b1c5e4fa5a02b38fd610b627225f5c68e1cb0834[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 21:48:43 2023 +0300
+
+    adding new mode
+
+[33mcommit 90bbab50a20e1fb5640468361c6ae8acef003bf0[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 21:45:59 2023 +0300
+
+    adding new mode
+
+[33mcommit 39851ed47e5acd2c733139414ff9f1d37124f0de[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 21:43:43 2023 +0300
+
+    adding new mode
+
+[33mcommit 4b211f48552851b79a97c517055cf66bff299440[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 21:42:19 2023 +0300
+
+    adding new mode
+
+[33mcommit 24e6f455da1b74da65f98764f0a2e23f7a0cdeda[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 21:40:43 2023 +0300
+
+    adding new mode
+
+[33mcommit 2540423b1327f3da325d0b6681b68b8d2d47d5f3[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 21:38:51 2023 +0300
+
+    adding new mode
+
+[33mcommit 6e85cb0fee9599017c7267d061957337037c0a4c[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 20:36:21 2023 +0300
+
+    adding new mode
+
+[33mcommit 24042d5fbc76669f599a51cec4b35a299ed671fb[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 20:30:03 2023 +0300
+
+    adding new mode
+
+[33mcommit f86fc30732b6ffca7b7fd9ec416de3cf22d0836f[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 19:01:45 2023 +0300
+
+    adding new mode
+
+[33mcommit b05e5485f756c06be33aafa85ab79ae472399812[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 18:58:43 2023 +0300
+
+    adding new mode
+
+[33mcommit 9088ca9e13cdc7f72b93504cb7e5c8fa1ac82bd0[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 18:57:48 2023 +0300
+
+    adding new mode
+
+[33mcommit 95843c743bbdf1fc5195bfc17028ad4b68b7f568[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 18:52:19 2023 +0300
+
+    adding new mode
+
+[33mcommit 004404ff2e38265b22b30a45c3abc0f615671723[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 18:50:16 2023 +0300
+
+    adding new mode
+
+[33mcommit 3320e0d49aea2a4a54e070d5668879fe07ad42c6[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 18:48:07 2023 +0300
+
+    adding new mode
+
+[33mcommit 0c3d4cef18e4ecdb0044696f895ae83bcea9b236[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 18:45:37 2023 +0300
+
+    adding new mode
+
+[33mcommit 083a443eddcbde8f4c84f0bfc2c2c33869d18270[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 16:48:23 2023 +0300
+
+    adding new mode
+
+[33mcommit 1945189a8f065c80a863d66c69c2da776fce048f[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 15:39:16 2023 +0300
+
+    adding new mode
+
+[33mcommit 45b9c22f590afab741d42ecc4bba190db93ed0b8[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 15:36:59 2023 +0300
+
+    adding new mode
+
+[33mcommit 37c38655a293e7aa055d79c85d4acfd2264ae5c7[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 15:02:04 2023 +0300
+
+    adding new mode
+
+[33mcommit 5f5e0fe0eb60b4c728813d1588fe462ec08abf57[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Wed Jul 12 14:59:37 2023 +0300
+
+    adding new mode
+
+[33mcommit cdd29431d865e4c5c61e8252ac34a5ebd0c7a101[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 21:15:07 2023 +0300
+
+    add seasonla to name of mode
+
+[33mcommit 9d93bd293c6192814713ffea10c40a147a779ed4[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 20:59:13 2023 +0300
+
+    add seasonla to name of mode
+
+[33mcommit 31d801f0b52ba59c6e862c6bd0b5f77c4ec6a1c9[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 20:58:42 2023 +0300
+
+    add seasonla to name of mode
+
+[33mcommit f50702c2b8bd38ef12a5d3bca5672ac9714def98[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 20:56:25 2023 +0300
+
+    add seasonla to name of mode
+
+[33mcommit b16209fbfdeac7f5471b8b5661c6508f2fd41d5a[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 20:54:18 2023 +0300
+
+    add seasonla to name of mode
+
+[33mcommit 0bfacf15acb40e5bf909014275de0b19f0fecb18[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 20:45:16 2023 +0300
+
+    add seasonla to name of mode
+
+[33mcommit 141a5f0e3d547af6473dccc66518ff2b7e67a34d[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 20:15:38 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit b9182743a87b683bc2407dd7339e3e366d6be2ad[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 17:16:58 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 26f08a047c182d41a8bcfa0cf18472395e7d4bfa[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 16:21:19 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit db491948c061f002d3865236bce0118cb255ed04[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 16:12:48 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit db5b3c2fd68a53c214d56ed27a8d83c81e3a4178[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 16:10:42 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit ac3158ba5661be5bd730e6aa16f32385ed4e9bf5[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 16:08:24 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 621768affcbeabd3e2cd1e61e857f27799a3cc41[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 16:04:51 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 7fa32e5267effe81154ab4574714196f099c134d[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 15:38:47 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit db99853957bfdee2e410b7a58a0dabc2ad3afa46[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 15:37:49 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit ad83460897bb92c857ddc140cf9f9591f76fb8e5[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 15:34:48 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 884609eada24f4ac323ada29c8739d6c4c6f0a0a[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 15:33:43 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit dc6216f146c8ae574362950288d93c69a9d94019[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 15:30:58 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit b8de87fc0b27366b65e12aca8847f466510ca43c[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 15:30:04 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 541d73780cee7b9f3d5aecebcdcc1fca05d1be05[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 15:08:59 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit c5f8124838b2eaab153f762448ba98b99c14ded4[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 14:59:52 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 578395427d4e449b69ea3d9bfffe2e7b8b218ef2[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 14:02:19 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 08c332bd4920e6ba1bebd1bbd4c831eb80e3b648[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 13:56:29 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 92e9208b4effaaba12e366eb0d1652791aeea8bc[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 13:42:53 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 568cbfc00cf8f9022471cfb3c6852526e6844340[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 13:41:42 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 20669485dba782d6615e2223d6e8324924792461[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 13:38:05 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit c9f546207f9ac4827bccf7ad40bd4ee21c737da3[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 12:53:27 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 2e670da395f673bad4e2b5433a69f3021e16ad7e[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 12:50:55 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit a2af6e7a3d095742825d2b9f23e8b7abdfdd69e2[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 12:49:24 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 9073b2b9d6ba0739b842ca027c4a0c2404c9ea3c[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 12:28:35 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 4f0ae409b47736c6f5e9b02967dbd56a4c74a8e9[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 11:44:05 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit e8b542b09adb6ea67adf49387dc34b790cd58bb4[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 11:40:57 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit d8b8fc9aecc9a81fc0d0b601491d8cfc093b2451[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 11:33:31 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 1d3bd109287a911f7b274e49f9d2f2f89f6bab9f[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 11:24:53 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 41230330a67d43712def778eeb2621256e394fe5[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 11:20:47 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit f8dab39ac6b8b0a634d5f49b3730c4328f5ea045[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 11:12:33 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 12d0612c2342910dbb16303894fa344254ee67e1[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 11:10:07 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 10e39703116f21d36f88320cb3f47d503ef5f884[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 10:59:46 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 58cf167f8af4927e2a1271c0a045f6790df74ca0[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 10:56:27 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 0d2ae134cd42c5079e9a17652c77c1efe2c99b21[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 10:44:13 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit c05a12ac477438eefb9b2c3bb487731e8b3a86d2[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 10:36:44 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 536556887038ef7f9435166adf9d5d4fad170a89[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 10:33:30 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit ed132b764bddf2716872084333179a97b2da118f[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 09:56:23 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit d847ca81a891e96a13294cb9c3e5411a033699a5[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 09:23:56 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 724a17336232dd69bcc89bd7012b000cead0c5ac[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 09:12:21 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit aa359e7728d150278c80883c26ef9f5a3ab40cf1[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 08:51:37 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit f7cb85cccb262e189fcea42c573e787481003468[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Tue Jul 11 08:46:40 2023 +0300
+
+    adding mode to config/format.ts,adding data/mode/digimon
+
+[33mcommit 8c08b405e0654a21633396f9f015dd08e77761f3[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Mon Jul 10 11:13:17 2023 +0300
+
+    adding learnset to kuramon
+
+[33mcommit 678896623e5596bee464b8148d01406b29d83ccc[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Mon Jul 10 10:55:01 2023 +0300
+
+    adding kuramon to gen 6 pokedex
+
+[33mcommit 42ed5ae7407e63264b38a3e1550bf263275d5f12[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Mon Jul 10 10:50:32 2023 +0300
+
+    adding kuramon to gen 6 pokedex
+
+[33mcommit 2dca5ad1497cab64755ea239ca7ed5b0812cee3c[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Mon Jul 10 10:27:13 2023 +0300
+
+    adding kuramon to gen 6 pokedex
+
+[33mcommit 63813564de8fdea782102e799cda3f4a0a1771e8[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Mon Jul 10 10:04:49 2023 +0300
+
+    changing kuramon type
+
+[33mcommit bdf23392a19edfe827f6458ca954404af67210b1[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sun Jul 9 10:52:20 2023 +0300
+
+    ds
+
+[33mcommit fce85f74f0747d5179fc02e80a158b3e961595b9[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sun Jul 9 10:47:21 2023 +0300
+
+    addint sprites folder
+
+[33mcommit 73b6ab94cb96a302949398361e7b0a5021150cf2[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sun Jul 9 10:43:45 2023 +0300
+
+    addint sprites folder
+
+[33mcommit 7fed91638852ce8482224a22a71f114a6863bcd6[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sun Jul 9 10:32:08 2023 +0300
+
+    addint sprites folder
+
+[33mcommit f08002c84b20e96ec4eefe73b79f3589af51681c[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sun Jul 9 09:41:39 2023 +0300
+
+    addint sprites folder
+
+[33mcommit a6fc1208cca419a23b1e1ed28d898b5bd281a859[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 17:53:12 2023 +0300
+
+    some changes
+
+[33mcommit 434fe333ab36ed46275d157ebd412b24c0dccfc2[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 17:24:15 2023 +0300
+
+    some changes
+
+[33mcommit 3ca48887c9a054c48d6376902fdfc59f4148de63[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 17:18:30 2023 +0300
+
+    some changes
+
+[33mcommit e0247580ffc8820cbaed95815cec5955db767663[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 17:07:10 2023 +0300
+
+    some changes
+
+[33mcommit 84aa8612f230041ba44e7afcf4f0e6535aab95ed[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 17:00:07 2023 +0300
+
+    some changes
+
+[33mcommit 0b2983c1fc3700fc21ed228386689dcd85f2019a[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 16:59:42 2023 +0300
+
+    some changes
+
+[33mcommit 76a6963d81cdf11034c978a890afb26e6d38288e[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 16:53:08 2023 +0300
+
+    some changes
+
+[33mcommit f2d5da084f7f429dc07eeae76fd7de7335ea8f76[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 16:20:57 2023 +0300
+
+    some changes
+
+[33mcommit bb47be8361c58ce8413b9b327cf051b4617fa763[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 16:02:10 2023 +0300
+
+    some changes
+
+[33mcommit efa6ae290f95136623ef6767ff25e7252c506892[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 15:54:46 2023 +0300
+
+    some changes
+
+[33mcommit 29cff5df1551bded49cfdfa9def202771b5a15ef[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 15:32:32 2023 +0300
+
+    some changes
+
+[33mcommit afe936353b97cad78234f147c160a6278f3f564d[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 15:25:09 2023 +0300
+
+    some changes
+
+[33mcommit 602172d93347205b9cb76bf5fa69c2a52b2c22f9[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 15:17:31 2023 +0300
+
+    some changes
+
+[33mcommit 369c59dd5424289f9bdc91bf55a9a88f792d4180[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 14:41:18 2023 +0300
+
+    some changes
+
+[33mcommit b46ec832117dc586d69b9aaeb84cc32b78bc6e84[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 14:37:39 2023 +0300
+
+    some changes
+
+[33mcommit cf5f1b02fd93a2fcad68b40882413f757249a927[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 13:43:20 2023 +0300
+
+    some changes
+
+[33mcommit 5ff09d469478253a11754d47fe7f07f0e3c57581[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 13:32:00 2023 +0300
+
+    some changes
+
+[33mcommit 2243db14d05ec465b82d41afcfc1f73b18868817[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 13:31:13 2023 +0300
+
+    some changes
+
+[33mcommit 10830d860b712eb1203132666c415c5429f7cd9a[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 13:25:17 2023 +0300
+
+    some changes
+
+[33mcommit 9993f5d108a156fdcd378d9991dbd4a735a49248[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 09:09:19 2023 +0300
+
+    some changes
+
+[33mcommit 7b7d38c10d48520cad2a4ffc3ea19442b1a95093[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 09:06:42 2023 +0300
+
+    some changes
+
+[33mcommit b72fde2527b0d66435faea9831479ec39a7724b0[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 09:00:58 2023 +0300
+
+    some changes
+
+[33mcommit bf66643856febf3de90c803c27ae07bf5878bb77[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 08:55:04 2023 +0300
+
+    some changes
+
+[33mcommit 2ad3ef7373784ae9aedc705fe56283df34202df6[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 08:50:22 2023 +0300
+
+    some changes
+
+[33mcommit a6f657a706f3a4457737ca5915a5e31033339591[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Sat Jul 8 08:40:11 2023 +0300
+
+    some changes
+
+[33mcommit 3ce67bb0cc4c26ff9dcd8d64c059780ffefc2d8b[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 22:21:13 2023 +0300
+
+    changing server
+
+[33mcommit cd1cda356bcd7f3863c51b04bc96cc0d4a0f836c[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 22:14:35 2023 +0300
+
+    changing server
+
+[33mcommit 1a8da1411a793ce48fb6724402f7e2df0c13d880[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 21:57:07 2023 +0300
+
+    changing pokedix and format-data
+
+[33mcommit f40a5897881064d7fac069acea0861e5c43180a3[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 21:46:55 2023 +0300
+
+    changing pokedix and format-data
+
+[33mcommit 774fea2dd18be69a66ee97dcaecfb8934c8ad945[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 21:43:03 2023 +0300
+
+    changing pokedix and format-data
+
+[33mcommit bc8e9994bd58a7e53dd19bf058908882afb69aa4[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 21:36:37 2023 +0300
+
+    changing pokedix and format-data
+
+[33mcommit 4a69a2bb35156ef054376f520436ae569ba801c1[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 21:31:20 2023 +0300
+
+    changing pokedix and format-data
+
+[33mcommit 80217c2578f8353b1cf9ca08b490f5ea277d50c8[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 20:15:31 2023 +0300
+
+    restore changes to server
+
+[33mcommit 89b7607417739d4b08d6ec988744b16ac665a026[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 20:14:37 2023 +0300
+
+    restore changes to server
+
+[33mcommit d63a3f7a21b6705dbe3a996aa94761be5afee7fb[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 20:08:40 2023 +0300
+
+    adding digimon mode
+
+[33mcommit 7bb426ea681310e755c0ca2c8b05d1360ac36747[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 20:00:15 2023 +0300
+
+    adding digimon mode
+
+[33mcommit bf2425d9ba4e0edb3ac4821d0e17dbf5e91996a2[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 19:54:48 2023 +0300
+
+    adding digimon mode
+
+[33mcommit 2804ca5d0b6fd853676a0b186441dbf4b026adf0[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 19:52:10 2023 +0300
+
+    adding digimon mode
+
+[33mcommit 853cc980d3075271d99d6e0cef91665a28f838cf[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 19:35:31 2023 +0300
+
+    adding digimon mode
+
+[33mcommit 7bf02922f2ff7f414f908ca446992af4761ae048[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 17:51:33 2023 +0300
+
+    changing pokedex
+
+[33mcommit 572a5bc3b4e3228f0780caab398e6e03753572c3[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 17:45:41 2023 +0300
+
+    changing pokedex
+
+[33mcommit 9276bc09311950567a02194ffee5265ddf956aa1[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 17:41:02 2023 +0300
+
+    changing pokedex
+
+[33mcommit cfd81146e608977ddf20b09ddc6a5f53229d0033[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 13:08:52 2023 +0300
+
+    change digmon to pokemon
+
+[33mcommit f8dad398c9cf12ab97a0a7357fb5ead1289d0406[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 13:08:13 2023 +0300
+
+    change digmon to pokemon
+
+[33mcommit 19f8005211474664559ccc6fb3d919a3b36cad15[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 13:06:15 2023 +0300
+
+    changing
+
+[33mcommit e7f41ae8368d10a62f55f3737ec3dc64ea5daa38[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 12:53:31 2023 +0300
+
+    chages to dex-specise.ts
+
+[33mcommit a23671b316975975e2296f8733a1115e3130da91[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 12:52:12 2023 +0300
+
+    change pokemon to digimon
+
+[33mcommit b9da86b49a3b510ab19ece2148890b495c467bed[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 12:05:44 2023 +0300
+
+    change digmon to pokemon
+
+[33mcommit f093b15f48000ef0fe8151ada1f5bbfebdda6b01[m
+Author: karamnaser <karam_m_n@hotmail.com>
+Date:   Fri Jul 7 11:56:34 2023 +0300
+
+    changing pokemon to digimon
+
+[33mcommit b44d1136c
