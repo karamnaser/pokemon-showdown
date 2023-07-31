@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <script>
 var server_ip = location.hostname === "localhost" ? "localhost" : location.hostname;
-var server_port ="8000";
+var server_port ="4000";
 var proxy_ip = location.hostname === "localhost" ? "localhost" : location.hostname;
-var proxy_port="80";
+var proxy_port="3000";
 var html_file_path="/testclient.html"
 document.location.replace(
 	'http://' + proxy_ip + ":" + proxy_port + html_file_path + "?~~" + server_ip + (location.hostname === 'localhost' ?":?port=" : ":") + server_port
