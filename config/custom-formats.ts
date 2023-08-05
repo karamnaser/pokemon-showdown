@@ -10,6 +10,11 @@ export const Formats: FormatList = [
 		ruleset: ['Cancel Mod', 'Dynamax Clause', 'HP Percentage Mod', 'Team Preview', 'Terastal Clause'],
 	},
 	{
+		name: "[genDigimon] Gen4 OU",
+		mod: "gendigimon",
+		ruleset: ['Cancel Mod', 'Dynamax Clause', 'HP Percentage Mod', 'Team Preview', 'Terastal Clause'],
+	},
+	{
 		name: "[Digimon] Digimon Showdown Singles",
 		desc: "Battle and play with your friends with this Digimon & LGPE hyrbid.",
 
